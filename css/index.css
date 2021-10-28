@@ -1,0 +1,31 @@
+.nav-links {
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.layout-container {
+    background-image: url("../static/img/layout.jpg");
+    height: 900px;
+}
+
+.layout-content {
+    /*background-color: rgba(173, 181, 189, 0.45);*/
+    background-color: rgba(0, 0, 0, 0.40);
+    height: 900px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.preview-info {
+    color: #fff;
+    text-align: center;
+}
+
+.preview-info span {
+    color: #fd7e14;
+}
+
+.preview-info a {
+    margin-top: 10px;
+}
